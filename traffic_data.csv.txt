@@ -1,0 +1,16 @@
+User_ID,Page,Time_Spent_Minutes,Exit_Page
+1,Home,2,Products
+2,Products,5,Pricing
+3,Home,1,Home
+4,About Us,3,Blog
+5,Products,6,Contact
+6,Pricing,8,Contact
+7,Blog,4,Blog
+8,Home,2,Products
+9,Products,7,Pricing
+10,Pricing,9,Contact
+11,Home,3,Home
+12,Blog,5,Products
+13,Products,6,Contact
+14,About Us,2,Home
+15,Pricing,10,Contact
